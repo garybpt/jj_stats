@@ -1,0 +1,25 @@
+Items to report on:
+
+1. Total number of users (verified): This is crucial for understanding the overall user base and potential reach of your AI coach.
+
+2. Total number of users (subscriber): Tracking the number of subscribers is important, especially if you offer premium or extended services to them.
+
+3. # Current number of users: Real-time data on current users provides a snapshot of the AI coach's current popularity and usage.
+
+4. Frequency of interactions: This metric helps gauge user engagement and how often users are interacting with the AI coach.
+
+5. Average conversation length: A longer average conversation length might indicate deeper engagement and more meaningful interactions.
+
+6. Percentage of subscribed users against total number of verified users: This ratio gives insights into the conversion rate from verified users to subscribers.
+
+7. Average length of subscription: Understanding how long users stay subscribed can help in planning long-term strategies and improvements.
+
+8. Number of new subscribers per month: Monitoring monthly growth in subscribers can help identify trends and assess the effectiveness of marketing or outreach efforts.
+
+9. Number of subscriber cancellations per month: Keeping an eye on cancellations helps identify potential issues and areas for improvement.
+
+10. Average number of new subscribers per year: This metric provides a broader perspective on the annual growth of your subscriber base.
+
+11. Average number of subscriber cancellations per year: Similar to the previous metric, understanding the annual churn rate is important for long-term planning.
+
+12. Reports: Once all reports have been saved to the json file, a message will be displayed in a dedicated Discord mods channel. 
