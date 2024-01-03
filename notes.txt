@@ -1,8 +1,10 @@
+# = Completed
+
 Items to report on:
 
-1. Total number of users (verified): This is crucial for understanding the overall user base and potential reach of your AI coach.
+1. # Total number of users (verified): This is crucial for understanding the overall user base and potential reach of your AI coach.
 
-2. Total number of users (subscriber): Tracking the number of subscribers is important, especially if you offer premium or extended services to them.
+2. # Current number of users (subscriber): Tracking the number of subscribers is important, especially if you offer premium or extended services to them.
 
 3. # Current number of users: Real-time data on current users provides a snapshot of the AI coach's current popularity and usage.
 
@@ -10,7 +12,7 @@ Items to report on:
 
 5. Average conversation length: A longer average conversation length might indicate deeper engagement and more meaningful interactions.
 
-6. Percentage of subscribed users against total number of verified users: This ratio gives insights into the conversion rate from verified users to subscribers.
+6. # Percentage of subscribed users against total number of verified users: This ratio gives insights into the conversion rate from verified users to subscribers.
 
 7. Average length of subscription: Understanding how long users stay subscribed can help in planning long-term strategies and improvements.
 
